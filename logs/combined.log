@@ -1,0 +1,223 @@
+{"level":"info","message":"Hello from Acquisitions with logger","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [23/Oct/2025:17:48:30 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [23/Oct/2025:17:48:30 +0000] \"GET /favicon.ico HTTP/1.1\" 404 150 \"-\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"Hello from Acquisitions with logger","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [31/Oct/2025:12:32:48 +0000] \"GET / HTTP/1.1\" 200 24 \"-\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"Hello from Acquisitions with logger","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [31/Oct/2025:13:22:16 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"Hello from Acquisitions with logger","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [31/Oct/2025:13:22:46 +0000] \"GET / HTTP/1.1\" 200 24 \"-\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [31/Oct/2025:13:23:31 +0000] \"GET /admin HTTP/1.1\" 404 144 \"-\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [31/Oct/2025:13:23:31 +0000] \"GET /api HTTP/1.1\" 200 42 \"-\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [31/Oct/2025:13:26:13 +0000] \"GET /api HTTP/1.1\" 200 24 \"-\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [31/Oct/2025:13:26:23 +0000] \"GET /api HTTP/1.1\" 200 42 \"-\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"Hello from Acquisitions with logger","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [31/Oct/2025:13:32:29 +0000] \"GET / HTTP/1.1\" 200 24 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [31/Oct/2025:13:32:38 +0000] \"GET /api HTTP/1.1\" 200 42 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [31/Oct/2025:13:34:39 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 30 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [02/Nov/2025:11:48:13 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 400 92 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [02/Nov/2025:11:50:39 +0000] \"POST /api/auth/sign-up?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 400 92 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [02/Nov/2025:11:50:46 +0000] \"POST /api/auth/sign-up?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 400 92 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [02/Nov/2025:11:50:47 +0000] \"POST /api/auth/sign-up?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 400 92 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [02/Nov/2025:11:50:48 +0000] \"POST /api/auth/sign-up?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 400 92 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User registered successfully: kaisanfarasdag09@gmail.com","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [02/Nov/2025:11:52:20 +0000] \"POST /api/auth/sign-up?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 201 110 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User ican09@gmail.com created successfully","service":"acquisitions-api"}
+{"level":"info","message":"User registered successfully: ican09@gmail.com","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [02/Nov/2025:12:34:37 +0000] \"POST /api/auth/sign-up?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 201 101 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User ican9@gmail.com created successfully","service":"acquisitions-api"}
+{"level":"info","message":"User registered successfully: ican9@gmail.com","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [02/Nov/2025:12:54:45 +0000] \"POST /api/auth/sign-up?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 201 99 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User ican9@gmail.com authenticated successfully","service":"acquisitions-api"}
+{"level":"info","message":"User signed in successfully: ican9@gmail.com","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [02/Nov/2025:12:55:54 +0000] \"POST /api/auth/sign-in?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 111 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:43:46 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 76 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:43:59 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 77 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:44:00 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 76 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:44:00 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 77 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:44:00 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 77 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:44:01 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 77 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:44:01 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 77 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:44:01 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 77 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:44:01 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 75 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:44:02 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 77 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:44:02 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 77 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:44:02 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 76 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:44:02 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 77 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:44:03 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 77 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:44:03 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 77 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:44:03 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 76 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:44:03 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 77 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:44:03 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 77 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:44:03 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 77 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:44:04 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 77 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:44:04 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 77 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:44:04 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 77 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:44:04 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 77 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:44:04 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 76 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:44:05 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 76 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:44:05 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 77 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:44:05 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 74 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:44:05 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 77 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:44:05 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 77 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:44:06 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 77 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:44:06 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 77 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:44:06 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 77 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:44:07 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 77 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:44:07 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 77 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:44:07 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 76 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:44:07 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 77 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:44:07 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 77 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:44:07 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 77 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:44:08 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 77 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:44:08 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 77 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:44:08 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 77 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:44:08 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 77 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:44:08 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 74 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:44:09 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 77 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:44:09 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 77 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:44:09 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 77 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:44:09 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 77 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:44:09 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 77 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:44:09 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 77 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:44:10 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 77 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:44:10 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 77 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:44:10 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 77 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:44:10 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 77 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:44:11 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 77 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:44:11 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 76 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:44:11 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 77 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:44:11 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 77 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:26 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 75 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:27 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 75 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:27 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 75 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:27 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 75 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:27 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 75 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:27 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 75 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:28 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 75 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:28 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 73 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:28 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 75 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:28 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 73 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:28 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 75 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:29 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 75 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:29 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 74 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:29 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 75 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:29 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 75 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:29 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 75 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:30 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 74 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:30 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 76 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:30 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 75 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:30 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 76 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:31 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 76 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:31 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 76 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:31 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 76 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:31 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 76 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:32 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 76 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:32 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 76 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:32 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 76 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:32 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 76 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:32 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 76 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:33 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 76 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:33 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 76 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:33 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 76 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:34 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 76 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:34 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 76 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:34 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 76 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:34 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 76 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:35 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 76 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:35 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 75 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:35 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 76 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:35 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 76 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:35 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 76 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:35 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 76 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:36 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 76 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:36 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 73 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:36 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 76 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:36 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 76 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:36 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 76 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:37 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 76 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:37 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 76 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:37 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 76 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:37 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 76 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:37 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 73 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:38 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 76 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:38 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 76 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:38 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 76 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:38 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 76 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:38 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 76 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:39 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 76 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:39 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 75 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:39 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 76 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:39 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 73 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:39 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 76 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:40 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 76 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:40 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 76 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:40 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 76 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:40 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 76 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:40 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 74 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:41 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 76 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:41 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 76 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:41 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 76 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:41 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 76 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:42 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 75 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:42 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 76 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:42 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 76 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:42 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 76 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:42 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 75 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:43 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 76 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:43 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 76 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:43 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 76 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:43 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 76 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:43 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 76 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:44 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 75 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:44 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 76 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:45 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 76 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:46 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 76 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:47 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 76 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:47 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 76 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:48 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 76 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:45:48 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 75 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:47:14 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 77 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:47:14 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 77 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:47:15 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 77 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:47:15 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 77 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:47:15 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 77 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:47:16 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 77 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:47:16 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 77 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:47:17 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 77 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:47:17 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 77 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:47:17 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 77 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:47:17 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 77 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:47:17 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 77 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:47:18 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 77 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:47:18 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 77 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:47:18 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 76 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:47:19 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 77 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:47:19 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 77 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:47:19 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 77 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:47:20 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 77 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:47:20 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 77 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:47:20 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 77 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:47:20 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 77 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:47:20 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 77 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:47:21 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 77 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:47:21 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 77 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:47:21 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 77 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:47:21 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 77 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:47:22 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 77 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:47:22 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 77 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:47:22 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 77 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:47:23 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 77 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:47:24 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 77 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:47:24 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 76 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:52:38 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 76 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:52:39 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 76 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:52:39 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 76 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:52:39 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 76 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:52:39 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 200 75 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/health","service":"acquisitions-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:52:40 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 403 95 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/health","service":"acquisitions-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:52:40 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 403 95 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/health","service":"acquisitions-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [04/Nov/2025:11:52:40 +0000] \"GET /health?name=ican&email=kaisanfarasdag09%40gmail.com&password=123123 HTTP/1.1\" 403 95 \"-\" \"HTTPie\"","service":"acquisitions-api"}
